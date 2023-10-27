@@ -1,0 +1,6 @@
+outs:
+- md5: 69b0ad468c44acf5d7cb2f35ffdd7561.dir
+  size: 41343382563
+  nfiles: 52481
+  hash: md5
+  path: kitti
